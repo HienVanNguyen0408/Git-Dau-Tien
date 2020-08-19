@@ -1,0 +1,66 @@
+18150073
+CNTT-17
+Nguyen Gia Loc
+04/07/2000
+3.43
+
+18150079
+CNTT-17
+Nguyen Van Hien
+04/08/2000
+3.65
+
+18150073
+CNTT-16
+Tran Trung Thiep
+03/08/2000
+2.45
+
+18150076
+CNTT-15
+Kieu Duc Long
+04/08/2000
+2.56
+
+18150073
+CNTT-17
+Nguyen Gia Loc
+04/07/2000
+3.43
+
+18150079
+CNTT-17
+Nguyen Van Hien
+04/08/2000
+3.65
+
+18150073
+CNTT-16
+Tran Trung Thiep
+03/08/2000
+2.45
+
+18150076
+CNTT-15
+Kieu Duc Long
+04/08/2000
+2.56
+
+18150079
+CNTT-17
+Nguyen Van Hien
+04/08/2000
+3.65
+
+18150073
+CNTT-16
+Tran Trung Thiep
+03/08/2000
+2.45
+
+18150076
+CNTT-15
+Kieu Duc Long
+04/08/2000
+2.56
+

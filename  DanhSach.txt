@@ -1,0 +1,72 @@
+ Thong Tin SV thu 1
+
+ Ma Sinh Vien : 18150073
+ Ma Lop : CNTT-17
+ Ho Va Ten  : Nguyen Gia Loc
+ Ngay Sinh  : 04/07/2000
+ Diem TB : 3.43
+
+
+ Thong Tin SV thu 2
+
+ Ma Sinh Vien : 18150079
+ Ma Lop : CNTT-17
+ Ho Va Ten  : Nguyen Van Hien
+ Ngay Sinh  : 04/08/2000
+ Diem TB : 3.65
+
+
+ Thong Tin SV thu 3
+
+ Ma Sinh Vien : 18150073
+ Ma Lop : CNTT-16
+ Ho Va Ten  : Tran Trung Thiep
+ Ngay Sinh  : 03/08/2000
+ Diem TB : 2.45
+
+
+ Thong Tin SV thu 4
+
+ Ma Sinh Vien : 18150076
+ Ma Lop : CNTT-15
+ Ho Va Ten  : Kieu Duc Long
+ Ngay Sinh  : 04/08/2000
+ Diem TB : 2.56
+
+
+ Thong Tin SV thu 5
+
+ Ma Sinh Vien : 18150073
+ Ma Lop : CNTT-17
+ Ho Va Ten  : Nguyen Gia Loc
+ Ngay Sinh  : 04/07/2000
+ Diem TB : 3.43
+
+
+ Thong Tin SV thu 6
+
+ Ma Sinh Vien : 18150079
+ Ma Lop : CNTT-17
+ Ho Va Ten  : Nguyen Van Hien
+ Ngay Sinh  : 04/08/2000
+ Diem TB : 3.65
+
+
+ Thong Tin SV thu 7
+
+ Ma Sinh Vien : 18150073
+ Ma Lop : CNTT-16
+ Ho Va Ten  : Tran Trung Thiep
+ Ngay Sinh  : 03/08/2000
+ Diem TB : 2.45
+
+
+ Thong Tin SV thu 8
+
+ Ma Sinh Vien : 18150076
+ Ma Lop : CNTT-15
+ Ho Va Ten  : Kieu Duc Long
+ Ngay Sinh  : 04/08/2000
+ Diem TB : 2.56
+
+

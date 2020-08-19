@@ -1,0 +1,55 @@
+# Project: Quan Li Sinh Vien
+# Makefile created by Dev-C++ 5.11
+
+CPP      = g++.exe -D__DEBUG__
+CC       = gcc.exe -D__DEBUG__
+WINDRES  = windres.exe
+OBJ      = main.o Menus.o KhungMenu.o SinhVien.o SapXep.o DanhSachSV.o BinaryTree.o TimKiem.o ThongKe.o Login.o
+LINKOBJ  = main.o Menus.o KhungMenu.o SinhVien.o SapXep.o DanhSachSV.o BinaryTree.o TimKiem.o ThongKe.o Login.o
+LIBS     = -L"C:/Users/Dell/Desktop/Dev-Cpp/MinGW64/lib" -L"C:/Users/Dell/Desktop/Dev-Cpp/MinGW64/x86_64-w64-mingw32/lib" -static-libgcc -g3
+INCS     = -I"C:/Users/Dell/Desktop/Dev-Cpp/MinGW64/include" -I"C:/Users/Dell/Desktop/Dev-Cpp/MinGW64/x86_64-w64-mingw32/include" -I"C:/Users/Dell/Desktop/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include"
+CXXINCS  = -I"C:/Users/Dell/Desktop/Dev-Cpp/MinGW64/include" -I"C:/Users/Dell/Desktop/Dev-Cpp/MinGW64/x86_64-w64-mingw32/include" -I"C:/Users/Dell/Desktop/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include" -I"C:/Users/Dell/Desktop/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++"
+BIN      = "Quan Li Sinh Vien.exe"
+CXXFLAGS = $(CXXINCS) -g3
+CFLAGS   = $(INCS) -g3
+RM       = rm.exe -f
+
+.PHONY: all all-before all-after clean clean-custom
+
+all: all-before $(BIN) all-after
+
+clean: clean-custom
+	${RM} $(OBJ) $(BIN)
+
+$(BIN): $(OBJ)
+	$(CPP) $(LINKOBJ) -o $(BIN) $(LIBS)
+
+main.o: main.cpp
+	$(CPP) -c main.cpp -o main.o $(CXXFLAGS)
+
+Menus.o: Menus.cpp
+	$(CPP) -c Menus.cpp -o Menus.o $(CXXFLAGS)
+
+KhungMenu.o: KhungMenu.cpp
+	$(CPP) -c KhungMenu.cpp -o KhungMenu.o $(CXXFLAGS)
+
+SinhVien.o: SinhVien.cpp
+	$(CPP) -c SinhVien.cpp -o SinhVien.o $(CXXFLAGS)
+
+SapXep.o: SapXep.cpp
+	$(CPP) -c SapXep.cpp -o SapXep.o $(CXXFLAGS)
+
+DanhSachSV.o: DanhSachSV.cpp
+	$(CPP) -c DanhSachSV.cpp -o DanhSachSV.o $(CXXFLAGS)
+
+BinaryTree.o: BinaryTree.cpp
+	$(CPP) -c BinaryTree.cpp -o BinaryTree.o $(CXXFLAGS)
+
+TimKiem.o: TimKiem.cpp
+	$(CPP) -c TimKiem.cpp -o TimKiem.o $(CXXFLAGS)
+
+ThongKe.o: ThongKe.cpp
+	$(CPP) -c ThongKe.cpp -o ThongKe.o $(CXXFLAGS)
+
+Login.o: Login.cpp
+	$(CPP) -c Login.cpp -o Login.o $(CXXFLAGS)
